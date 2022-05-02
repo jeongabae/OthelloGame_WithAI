@@ -40,7 +40,7 @@ AI구현에는 Alpha-beta pruning을 사용하였습니다.
 ~ 방 만들기 진입 시 맵 선택 화면으로 넘어감(맵 선택 화면에서 사진 첨부)
 ~ 멤버 목록 진입
 
-![image](https://user-images.githubusercontent.com/61223304/166193175-ea16002f-6046-4fb2-8e04-071d1e6b4cc4.png)
+![image](https://user-images.githubusercontent.com/61223304/166194644-fe16a631-e611-4fd1-9158-f7732ae4bce0.png)
 
 
 - 맵 선택 화면 : 위에서 1번 방 만들기를 선택하여 맵 선택 화면으로 넘어가면, 일반맵 1번과 변형맵 2번 중 선택하여 게임을 시작할 수 있다.
